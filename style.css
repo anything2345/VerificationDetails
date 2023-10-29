@@ -4,10 +4,7 @@
 }
 
 body {
-    background: repeating-linear-gradient(135deg, #595959 0, #595959 10%, transparent 0, transparent 50%);
-        background-size: 3em 3em;
-        background-color: #c5c5c5;
-        opacity: 1
+    background-color: rgb(255, 210, 158);
   }
 
 
